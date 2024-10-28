@@ -1,35 +1,23 @@
-## About me
+# About Me
 
-I'm Akshit and I am currently a B. Tech Computer Science first year student at Galgotias Univerity. 
+Hi, I'm Akshit! I'm a first-year B.Tech student majoring in Computer Science at Galgotias University.
 
-## Projects I am working on
+# Projects I'm Working On
 
-I'm currently working on building an full stack e-commerce website from scratch with a few of my batchmates. I believe that this clon creation would help me improve my react skills and will make me a better web developer. And honestly, I love doing web development since i can actually see my results in real time and deploy my projects in the blink of an eye and it feels so rewarding. I'm hoping to finish this project by the end of this year and hopefully make it a commercial grade website.
+I'm currently collaborating with some classmates to build a full-stack e-commerce website from scratch. This project is a great opportunity for me to enhance my React skills and grow as a web developer. I love web development because I can see the results of my work in real-time, and deploying projects is incredibly rewarding. My goal is to complete this project by the end of the year and develop it into a commercial-grade website.
 
-## What I'm currently learning
+# What I'm Currently Learning
 
-I'm not learning anything specific right now, since I am focused on building my project. But as this project comes to an end I have plans of moving on to Java since I have mastered the basics and I am looking to take it to the advanced level now.
+Right now, I'm focused on finishing my e-commerce project, so I'm not exploring any new topics at the moment. However, once it's completed, I plan to deepen my knowledge of Java, as I’ve already mastered the basics.
 
-## Collaborations I am interested in
-Anything related to web development would get me going!
+# Collaboration Interests
 
-## Want to strike a convo?
-Just ask me what I'm doing currently and I'll zap you with an answer right away.
+I’m eager to collaborate on any web development projects—let's create something amazing together!
 
-## Reach out to me 
-You can connect with me on LinkedIn or here as well! Looking forward to connect and develop!
+# Want to Chat?
 
-<!--
-**joshiakshit/joshiakshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to ask me about what I'm currently working on—I'm always excited to share!
 
-Here are some ideas to get you started:
+# Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach out to me on LinkedIn or here. I look forward to connecting and collaborating!
