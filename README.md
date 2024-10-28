@@ -1,6 +1,6 @@
 ## About me
 
-# I'm Akshit and I am currently a B. Tech Computer Science first year student at Galgotias Univerity. 
+I'm Akshit and I am currently a B. Tech Computer Science first year student at Galgotias Univerity. 
 
 ## Projects I am working on
 
