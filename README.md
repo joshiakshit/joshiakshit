@@ -8,7 +8,7 @@ Figuring out my next project!
 
 # What I'm Currently Learning
 
-Right now, I'm focused on finishing my e-commerce project, so I'm not exploring any new topics at the moment. However, once it's completed, I plan to deepen my knowledge of Java, as I’ve already mastered the basics.
+I'm not exploring any new topics at the moment. However, once it's completed, I plan to deepen my knowledge of Java, as I’ve already mastered the basics.
 
 # Collaboration Interests
 
