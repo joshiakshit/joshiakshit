@@ -4,7 +4,7 @@ Hi, I'm Akshit! I'm a first-year B.Tech student majoring in Computer Science at 
 
 # Projects I'm Working On
 
-I'm currently collaborating with some classmates to build a full-stack e-commerce website from scratch. This project is a great opportunity for me to enhance my React skills and grow as a web developer. I love web development because I can see the results of my work in real-time, and deploying projects is incredibly rewarding. My goal is to complete this project by the end of the year and develop it into a commercial-grade website.
+Figuring out my next project!
 
 # What I'm Currently Learning
 
