@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Akshit! I'm a first-year B.Tech student majoring in Computer Science at Galgotias University.
+Hi, I'm Akshit! I'm a second-year B.Tech student majoring in Computer Science at Galgotias University.
 
 # Projects I'm Working On
 
