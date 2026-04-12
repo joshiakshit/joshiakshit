@@ -1,23 +1,25 @@
-# About Me
+# Hi, I'm Akshit.
 
-Hi, I'm Akshit! I'm a second-year B.Tech student majoring in Computer Science at Galgotias University.
+**Computer Science Student** Focusing on backend systems, automation, and cloud infrastructure. I prefer the efficiency of a terminal-centric workflow and the logic of well-structured scalable systems.
 
-# Projects I'm Working On
 
-Figuring out my next project!
+### 🛠 Tech Stack
 
-# What I'm Currently Learning
+* **Languages:** `Java` • `JavaScript` • `Python` • `C`
+* **Infrastructure:** `Azure` • `Linux` • `WSL`
+* **Tools:** `Git` • `Terminal` • `Playwright` • `Node.js`
+* **Specialties:** Web Scraping • Automation • System Logic
 
-I'm not exploring any new topics at the moment. However, once it's completed, I plan to deepen my knowledge of Java, as I’ve already mastered the basics.
+### 🚀 Featured Projects
 
-# Collaboration Interests
+#### **GU-Portal**
+An automation suite designed to streamline university life by scraping attendance and timetable data.
+* **Tech:** `Node.js`, `Playwright`, `JavaScript`
+* **Focus:** Headless browser automation and data parsing to solve real-world student administrative challenges.
 
-I’m eager to collaborate on any web development projects—let's create something amazing together!
 
-# Want to Chat?
+### 📫 Reach Me
 
-Feel free to ask me about what I'm currently working on—I'm always excited to share!
-
-# Connect with Me
-
-You can reach out to me on LinkedIn or here. I look forward to connecting and collaborating!
+* **Email:** `joshiakshit108@gmail.com`
+* **LinkedIn:** [linkedin.com/in/akshit-joshi](https://linkedin.com/in/joshiakshit)
+* **GitHub:** [github.com/akshit-joshi](https://github.com/joshiakshit)
