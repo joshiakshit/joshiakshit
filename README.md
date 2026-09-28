@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/gojo-banner.gif" alt="Animated Gojo Satoru banner">
+<img width="90%" src="./assets/fight-sequence.gif" alt="Animated fight sequence banner">
 
 # Akshit Joshi
 
@@ -24,27 +24,27 @@ I build practical software, from Android clients and backend services<br>to secu
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/joshiakshit/axis">Axis</a></h3>
-      <p>Offline-friendly Android client for university attendance, timetables, QR check-in, and academic planning.</p>
-      <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Room</code> <code>Cloudflare Workers</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/joshiakshit/crypto-decompiler">CryptScan</a></h3>
-      <p>Static analysis CLI that detects cryptographic misuse in Android APKs.</p>
-      <p><code>Python</code> <code>Androguard</code> <code>Jinja2</code> <code>Pytest</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
       <h3><a href="https://github.com/joshiakshit/electronic-warfare">E-WAVE</a></h3>
       <p>Adaptive frequency scan scheduling with bandits, Bayesian tracking, and periodic prediction.</p>
       <p><code>Python</code> <code>FastAPI</code> <code>TypeScript</code> <code>Online ML</code></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/joshiakshit/poker">Table Stakes</a></h3>
-      <p>Shared poker chip tracking for physical Texas Hold'em and Teen Patti games.</p>
-      <p><code>Node.js</code> <code>SQLite</code> <code>JavaScript</code> <code>Docker</code></p>
+    <td width="50%" valign="top" align="left">
+      <h3><a href="https://github.com/joshiakshit/auth-service">Auth Service</a></h3>
+      <p>Authentication service for secure user access and session management.</p>
+      <p><code>Node.js</code> <code>TypeScript</code> <code>JWT</code> <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <h3><a href="https://github.com/joshiakshit/axis">Axis</a></h3>
+      <p>Offline-friendly Android client for university attendance, timetables, QR check-in, and academic planning.</p>
+      <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Room</code> <code>Cloudflare Workers</code></p>
+    </td>
+    <td width="50%" valign="top" align="left">
+      <h3><a href="https://github.com/joshiakshit/crypto-decompiler">CryptScan</a></h3>
+      <p>Static analysis CLI that detects cryptographic misuse in Android APKs.</p>
+      <p><code>Python</code> <code>Androguard</code> <code>Jinja2</code> <code>Pytest</code></p>
     </td>
   </tr>
 </table>
@@ -53,8 +53,7 @@ I build practical software, from Android clients and backend services<br>to secu
 
 - [Impromptu](https://github.com/joshiakshit/impromptu): speaking practice with topics, timers, and local recordings
 - [Discord Music Bot](https://github.com/joshiakshit/music): YouTube search, voice playback, and per-server queues
-- [MyCart](https://github.com/joshiakshit/MyCart): price comparison for Indian quick-commerce platforms
-- [FTP Client](https://github.com/joshiakshit/FTPClient): a file transfer protocol client written in Java
+- [Table Stakes](https://github.com/joshiakshit/poker): shared poker chip tracking for physical Texas Hold'em and Teen Patti games
 
 ## GitHub activity
 
